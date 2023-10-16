@@ -3,7 +3,7 @@
 This is a website that has ban appeal forms for multiple servers! Appeal your ban here!
 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/appeal?theme=dark)](https://discord.gg/WBMk32weUs)
+[![Join us on Discord](https://invidget.switchblade.xyz/WBMk32weUs?theme=dark)](https://discord.gg/WBMk32weUs)
 
 <!--
 
